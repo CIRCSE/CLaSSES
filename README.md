@@ -23,3 +23,4 @@ The _LiLa: Linking Latin_ project has received funding from the European Researc
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />These resources are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## Citation
+Giovanni Moretti, Federica Iurescia, Marco Carlo Passarotti, Paolo Ruffolo, Giovanna Marotta, Irene De Felice, Lucia Tamponi, Francesco Rovai, & Stefano Dei Rossi. (2022). CIRCSE/CLaSSES: CLaSSES (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7463304
