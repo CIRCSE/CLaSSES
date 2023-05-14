@@ -10,6 +10,7 @@ The RDF version of CLaSSES was linked to the LiLa Knowledge Base thanks to the c
 * [Vindolanda writing tablets edited by Bowman and Thomas (1983-2003) and Bowman, Thomas and Tomlin (2010-2019)](http://lila-erc.eu/data/corpora/CLaSSES/id/corpus/BTT)
 * [Album of dated Latin inscriptions](http://lila-erc.eu/data/corpora/CLaSSES/id/corpus/GORDON) 
 * [Inscriptiones latinae liberae rei publicae](http://lila-erc.eu/data/corpora/CLaSSES/id/corpus/ILLRP)
+Sections of CLaSSES already linked, but still under processing:
 * [L’epigrafia latina in Sardegna dopo il C.I.L. X e l’E.E. VIII](http://lila-erc.eu/data/corpora/CLaSSES/id/corpus/ANRW)
 * [Le iscrizioni cristiane della Sardegna anteriori al VII secolo](http://lila-erc.eu/data/corpora/CLaSSES/id/corpus/ICS)
 * [Ephemeris epigraphica. Corporis inscriptionum Latinarum supplementum](http://lila-erc.eu/data/corpora/CLaSSES/id/corpus/EE%20VIII)
